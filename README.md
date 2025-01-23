@@ -19,7 +19,7 @@ To get started, clone this repository and install the required dependencies:
 git clone https://github.com/your-username/vision-transformers-image-retrieval.git
 cd vision-transformers-image-retrieval
 pip install -r requirements.txt
-
+```
 
 
 
