@@ -1,5 +1,3 @@
-# Vision-Transformers-for-Image-Retrieval
-This repository contains an implementation of Vision Transformers (ViT) for image retrieval tasks. The code is based on the example provided by Pinecone and demonstrates how to use ViT models to perform efficient and accurate image retrieval.
 # Vision Transformers for Image Retrieval
 
 This repository contains an implementation of Vision Transformers (ViT) for image retrieval tasks. The code is based on the example provided by Pinecone and demonstrates how to use ViT models to perform efficient and accurate image retrieval.
