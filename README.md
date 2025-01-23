@@ -20,6 +20,10 @@ git clone https://github.com/your-username/vision-transformers-image-retrieval.g
 cd vision-transformers-image-retrieval
 pip install -r requirements.txt
 
+
+
+
+
 ## Usage
 To run the image retrieval example, follow these steps:
 
